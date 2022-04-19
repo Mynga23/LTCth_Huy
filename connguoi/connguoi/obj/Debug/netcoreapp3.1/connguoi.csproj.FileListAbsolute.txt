@@ -1,0 +1,14 @@
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.exe
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.deps.json
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.runtimeconfig.json
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.runtimeconfig.dev.json
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.dll
+D:\LTC_ThHuy\connguoi\connguoi\bin\Debug\netcoreapp3.1\connguoi.pdb
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.csproj.AssemblyReference.cache
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.AssemblyInfoInputs.cache
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.AssemblyInfo.cs
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.csproj.CoreCompileInputs.cache
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.dll
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.pdb
+D:\LTC_ThHuy\connguoi\connguoi\obj\Debug\netcoreapp3.1\connguoi.genruntimeconfig.cache
