@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTC_ThHuy\\vidu\\vidu\\vidu.csproj": {}
+    "D:\\LTC_ThHuy\\VIDU\\VIDU\\VIDU.csproj": {}
   },
   "projects": {
-    "D:\\LTC_ThHuy\\vidu\\vidu\\vidu.csproj": {
+    "D:\\LTC_ThHuy\\VIDU\\VIDU\\VIDU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTC_ThHuy\\vidu\\vidu\\vidu.csproj",
-        "projectName": "vidu",
-        "projectPath": "D:\\LTC_ThHuy\\vidu\\vidu\\vidu.csproj",
+        "projectUniqueName": "D:\\LTC_ThHuy\\VIDU\\VIDU\\VIDU.csproj",
+        "projectName": "VIDU",
+        "projectPath": "D:\\LTC_ThHuy\\VIDU\\VIDU\\VIDU.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\LTC_ThHuy\\vidu\\vidu\\obj\\",
+        "outputPath": "D:\\LTC_ThHuy\\VIDU\\VIDU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

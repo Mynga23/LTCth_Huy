@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace vidu
+namespace VIDU
 {
     class Program
     {
