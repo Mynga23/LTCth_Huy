@@ -6,38 +6,55 @@ using System.Threading.Tasks;
 
 namespace Diemdanh2
 {
-   
     public abstract class animal
     {
-        public abstract void Eat();
-        protected abstract void AnimalSound();
-    
 
-        public string eat_241
+            public abstract void Eat();
+            public abstract void makeSound();
+        
+        public class Cat : animal
         {
-            get
+            public Cat()
             {
-                return eat_241;
+
+            }
+            public override void Eat()
+            {
+                Console.WriteLine("Meo meo meo meo meo");
+            }
+            public override void makeSound()
+            {
+                Console.WriteLine("Meo dang tam, dung lam phien!!!");
             }
 
-            set
+            public void Run()
             {
-                eat_241 = value;
-            }
-        }
-        public string animalSound_241
-        {
-            get
-            {
-                return animalSound_241;
+                Console.WriteLine("Meo co bon chan");
             }
 
-            set
-            {
-                animalSound_241 = value;
-            }
         }
 
+        public class Bird : animal
+        {
+            public Bird()
+            {
+
+            }
+            public override void Eat()
+            {
+                Console.WriteLine("Meo meo meo meo meo");
+            }
+            public override void makeSound()
+            {
+                Console.WriteLine("Meo dang tam, dung lam phien!!!");
+            }
+
+            public void Fly()
+            {
+                Console.WriteLine("Chim co hai canh de bay !!!");
+            }
+
+        }
     }
 
 }
