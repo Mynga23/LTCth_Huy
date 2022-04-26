@@ -20,11 +20,11 @@ namespace Diemdanh2
             }
             public override void Eat()
             {
-                Console.WriteLine("Meo meo meo meo meo");
+                Console.WriteLine("Meo con");
             }
             public override void makeSound()
             {
-                Console.WriteLine("Meo dang tam, dung lam phien!!!");
+                Console.WriteLine("Meo dang di choi!!!");
             }
 
             public void Run()
