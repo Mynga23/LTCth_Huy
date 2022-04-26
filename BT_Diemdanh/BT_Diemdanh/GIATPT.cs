@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BaiDiemDanh_26_4
+namespace BT_Diemdanh
 {
-    class giai_pt_bac2
+    class GIATPT
     {
         private double a_241, b_241, c_241;
-        public giai_pt_bac2()
+        public GIATPT()
         {
 
         }
@@ -23,13 +23,13 @@ namespace BaiDiemDanh_26_4
             set { b_241 = value; }
 
         }
-        public double C_241;
+        public double C_241
         {
             get { return c_241; }
             set { c_241 = value; }
 
         }
-        public giai_pt_bac2(double a_241, double b_241, double c_241)
+        public GIATPT(double a_241, double b_241, double c_241)
         {
             this.A_241 = a_241;
             this.B_241 = b_241;
@@ -47,19 +47,19 @@ namespace BaiDiemDanh_26_4
             if (a_241 == 0)
             {
                 Console.WriteLine("Phuong trinh tro thanh bac nhat");
-                Console.WriteLine("Co nghiem bang, x = {0}", -c_258 / b_258);
+                Console.WriteLine("Co nghiem bang, x = {0}", -C_241 / b_241);
             }
             else
             {
                 if (delta_241 < 0)
                     Console.WriteLine("Phuong trinh vo nghiem");
                 else if (delta_241 == 0)
-                    Console.WriteLine("Phuong trinh co nghiem kep, x1 = x2 = {0}", -b_258 / (2 * a_241));
+                    Console.WriteLine("Phuong trinh co nghiem kep, x1 = x2 = {0}", -b_241 / (2 * a_241));
                 else
                 {
                     Console.WriteLine("Phuong trinh co 2 nghiem phan biet");
-                    Console.WriteLine("x1 = {0}", (-b_258 + Math.Sqrt(delta_241) / (2 * a_241)));
-                    Console.WriteLine("x2 = {0}", (-b_258 - Math.Sqrt(delta_241) / (2 * a_241)));
+                    Console.WriteLine("x1 = {0}", (-b_241 + Math.Sqrt(delta_241) / (2 * a_241)));
+                    Console.WriteLine("x2 = {0}", (-b_241 - Math.Sqrt(delta_241) / (2 * a_241)));
                 }
 
             }

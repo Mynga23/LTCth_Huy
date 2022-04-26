@@ -1,0 +1,16 @@
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.exe
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.deps.json
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.runtimeconfig.json
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.runtimeconfig.dev.json
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.dll
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\ref\BT_Diemdanh.dll
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\bin\Debug\net5.0\BT_Diemdanh.pdb
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.csproj.AssemblyReference.cache
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.AssemblyInfoInputs.cache
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.AssemblyInfo.cs
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.csproj.CoreCompileInputs.cache
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.dll
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\ref\BT_Diemdanh.dll
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.pdb
+D:\LTC_ThHuy\BT_Diemdanh\BT_Diemdanh\obj\Debug\net5.0\BT_Diemdanh.genruntimeconfig.cache
