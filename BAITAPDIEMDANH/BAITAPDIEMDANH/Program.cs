@@ -8,66 +8,66 @@ namespace BAITAPDIEMDANH
         {
           
             int[] arr1 = new int[100];
-            int i,j, mx, mn, n, tmp;
-            n = 11;
-            for (i = 0; i < n; i++)
+            int i_241,j_241, mx_241, mn_241, n_241, tmp_241;
+            n_241 = 11;
+            for (i_241 = 0; i_241 < n_241; i_241++)
             {
-                Console.Write("Phan tu - {0}: ", i);
-                arr1[i] = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Phan tu - {0}: ", i_241);
+                arr1[i_241] = Convert.ToInt32(Console.ReadLine());
             }
-            mx = arr1[0];
-            mn = arr1[0];
-            for (i = 1; i < n; i++)
+            mx_241 = arr1[0];
+            mn_241 = arr1[0];
+            for (i_241 = 1; i_241 < n; i_241++)
             {
-                if (arr1[i] > mx)
+                if (arr1[i_241] > mx_241)
                 {
-                    mx = arr1[i];
+                    mx_241 = arr1[i_241];
                 }
 
 
-                if (arr1[i] < mn)
+                if (arr1[i_241] < mn_241)
                 {
-                    mn = arr1[i];
+                    mn_241 = arr1[i_241];
                 }
             }
-            Console.Write("Phan tu lon nhat trong mang la: {0}\n", mx);
-            Console.Write("Phan tu nho nhat trong mang la: {0}\n\n", mn);
-            for (i = 0; i < n; i++)
+            Console.Write("Phan tu lon nhat trong mang la: {0}\n", mx_241);
+            Console.Write("Phan tu nho nhat trong mang la: {0}\n\n", mn_241);
+            for (i_241 = 0; i_241 < n_241; i_241++)
             {
-                for (j = i + 1; j < n; j++)
+                for (j_241 = i_241 + 1; j_241 < n_241; j_241++)
                 {
-                    if (arr1[j] < arr1[i])
+                    if (arr1[j_241] < arr1[i_241])
                     {
                         //cach trao doi gia tri
-                        tmp = arr1[i];
-                        arr1[i] = arr1[j];
-                        arr1[j] = tmp;
+                        tmp_241 = arr1[i_241];
+                        arr1[i_241] = arr1[j_241];
+                        arr1[j_241] = tmp_241;
                     }
                 }
             }
             Console.Write("\nIn cac phan tu mang theo thu tu tang dan:\n");
-            for (i = 0; i < n; i++)
+            for (i_241 = 0; i_241 < n_241; i_241++)
             {
-                Console.Write("{0}  ", arr1[i]);
+                Console.Write("{0}  ", arr1[i_241]);
             }
-            for (i = 0; i < n; i++)
+             for (i_241 = 0; i_241 < n_241; i_241++)
             {
-                for (j = i + 1; j < n; j++)
+                for (j_241 = i_241 + 1; j_241 < n_241; j_241++)
                 {
-                    if (arr1[i] < arr1[j])
+                    if (arr1[i_241] < arr1[j_241])
                     {
                         //cach trao doi gia tri
-                        tmp = arr1[i];
-                        arr1[i] = arr1[j];
-                        arr1[j] = tmp;
+                        tmp_241 = arr1[i_241];
+                        arr1[i_241] = arr1[j_241];
+                        arr1[j_241] = tmp_241;
                     }
                 }
             }
 
             Console.Write("\nIn cac phan tu mang theo thu tu giam dan:\n");
-            for (i = 0; i < n; i++)
+            for (i_241 = 0; i_241 < n_241; i_241++)
             {
-                Console.Write("{0}  ", arr1[i]);
+                Console.Write("{0}  ", arr1[i_241]);
             }
 
         }
