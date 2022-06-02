@@ -17,7 +17,7 @@ namespace BAITAPDIEMDANH
             }
             mx_241 = arr1[0];
             mn_241 = arr1[0];
-            for (i_241 = 1; i_241 < n; i_241++)
+            for (i_241 = 1; i_241 < n_241; i_241++)
             {
                 if (arr1[i_241] > mx_241)
                 {
