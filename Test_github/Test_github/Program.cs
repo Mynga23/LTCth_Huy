@@ -10,7 +10,8 @@ namespace Test_github
     {
         static void Main(string[] args)
         {
-            // để mình thử commit lại 
+            // để mình thử commit lại bạn chưa push mới nhấn commit thôi 
+            Console.WriteLine("12234");
             Console.WriteLine("12234");
         }
     }
