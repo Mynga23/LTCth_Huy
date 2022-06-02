@@ -10,6 +10,8 @@ namespace Test_github
     {
         static void Main(string[] args)
         {
+            // để mình thử commit lại 
+            Console.WriteLine("12234");
         }
     }
 }
